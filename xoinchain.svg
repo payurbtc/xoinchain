@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 110" role="img" aria-labelledby="xoinchain-title">
+  <title id="xoinchain-title">Xoinchain</title>
+  <g fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 46 43 L 28 25 C 21 18 11 28 18 35 L 48 65 L 18 95 C 11 102 21 112 28 105 L 55 78" />
+    <path d="M 64 67 L 82 85 C 89 92 79 102 72 95 L 42 65 L 86 21" />
+    <path d="M 55 34 L 66 23 C 71 18 78 21 78 26" />
+  </g>
+  <polygon points="97,10 73,16 91,34" fill="#FFFFFF" />
+  <text x="115" y="83" font-family="'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="68" letter-spacing="-2" fill="#FFFFFF">
+    oinchain
+  </text>
+</svg>
